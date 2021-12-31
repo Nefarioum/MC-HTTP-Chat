@@ -1,0 +1,5 @@
+name: HTTPChat
+main: me.nefarious.httpchat.Main
+version: 1.0
+author: Nefarious
+description: Sends a HTTP request to a web-server.
